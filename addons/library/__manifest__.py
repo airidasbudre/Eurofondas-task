@@ -10,7 +10,7 @@
     'depends': ['base'],
     "assets": {},
     'data': [
-        
+        "views/library_views.xml",
     ],
     "license": "LGPL-3",
 }
